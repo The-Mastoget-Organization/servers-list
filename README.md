@@ -2,78 +2,78 @@
 The current list of Mastodon Servers that Mastoget can connect to. Limited to 5 servers per page load.
 
 ## The List
-https://newsmast.social/api/v1/timelines/public <br>
-https://mastodon.social/api/v1/timelines/public <br>
-https://mastodon.online/api/v1/timelines/public <br>
-https://mas.to/api/v1/timelines/public <br>
-https://universeodon.com/api/v1/timelines/public <br>
-https://mastodonapp.uk/api/v1/timelines/public <br>
-https://social.vivaldi.net/api/v1/timelines/public <br>
-https://mastodon.world/api/v1/timelines/public <br>
-https://mastodonapp.uk/api/v1/timelines/public <br>
-https://det.social/api/v1/timelines/public <br>
-https://c.im/api/v1/timelines/public <br>
-https://mstdn.party/api/v1/timelines/public <br>
-https://toot.community/api/v1/timelines/public <br>
-https://ohai.social/api/v1/timelines/public <br>
-https://nerdculture.de/api/v1/timelines/public <br>
-https://ieji.de/api/v1/timelines/public <br>
-https://toot.io/api/v1/timelines/public <br>
-https://masto.nu/api/v1/timelines/public <br>
-https://mstdn.plus/api/v1/timelines/public <br>
-https://stranger.social/api/v1/timelines/public <br>
-https://fairy.id/api/v1/timelines/public <br>
-https://cupoftea.social/api/v1/timelines/public <br>
-https://mstdn.business/api/v1/timelines/public <br>
-https://convo.casa/api/v1/timelines/public <br>
-https://wehavecookies.social/api/v1/timelines/public <br>
-https://toot.funami.tech/api/v1/timelines/public <br>
-https://expressional.social/api/v1/timelines/public <br>
-https://mastodon-uk.net/api/v1/timelines/public <br>
-https://cr8r.gg/api/v1/timelines/public <br>
-https://sakurajima.moe/api/v1/timelines/public <br>
-https://mastodon.com.pl/api/v1/timelines/public <br>
-https://beekeeping.ninja/api/v1/timelines/public <br>
-https://hear-me.social/api/v1/timelines/public <br>
-https://birdon.social/api/v1/timelines/public <br>
-https://squawk.mytransponder.com/api/v1/timelines/public <br>
-https://masto.yttrx.com/api/v1/timelines/public <br>
-https://planetearth.social/api/v1/timelines/public <br>
-https://fairmove.net/api/v1/timelines/public <br>
-https://mstdn.social/api/v1/timelines/public <br>
-https://mastodon.world/api/v1/timelines/public <br>
-https://mastodon.sdf.org/api/v1/timelines/public <br>
-https://mindly.social/api/v1/timelines/public <br>
-https://geekdom.social/api/v1/timelines/public <br>
-https://theblower.au/api/v1/timelines/public <br>
-https://lor.sh/api/v1/timelines/public <br>
-https://famichiki.jp/api/v1/timelines/public <br>
-https://opalstack.social/api/v1/timelines/public <br>
-https://blorbo.social/api/v1/timelines/public <br>
-https://fandom.ink/api/v1/timelines/public <br>
-https://libretooth.gr/api/v1/timelines/public <br>
-https://toot.site/api/v1/timelines/public <br>
-https://persiansmastodon.com/api/v1/timelines/public <br>
-https://social.bau-ha.us/api/v1/timelines/public <br>
-https://is.nota.live/api/v1/timelines/public <br>
-https://mstdn.dk/api/v1/timelines/public <br>
-https://norcal.social/api/v1/timelines/public <br>
-https://mountains.social/api/v1/timelines/public <br>
-https://esq.social/api/v1/timelines/public <br>
-https://friendsofdesoto.social/api/v1/timelines/public <br>
-https://opencoaster.net/api/v1/timelines/public <br>
-https://maly.io/api/v1/timelines/public <br>
-https://raphus.social/api/v1/timelines/public <br>
-https://mastodon.cipherbliss.com/api/v1/timelines/public <br>
-https://cultur.social/api/v1/timelines/public <br>
-https://x0r.be/api/v1/timelines/public <br>
-https://lounge.town/api/v1/timelines/public <br>
-https://toots.nu/api/v1/timelines/public <br>
-https://mastodon.africa/api/v1/timelines/public <br>
-https://cwb.social/api/v1/timelines/public <br>
-https://camp.smolnet.org/api/v1/timelines/public <br>
-https://paktodon.asia/api/v1/timelines/public <br>
-https://growers.social/api/v1/timelines/public <br>
-https://mastodon.babb.no/api/v1/timelines/public <br>
-https://learningdisability.social/api/v1/timelines/public <br>
-https://computerfairi.es/api/v1/timelines/public <br>
+https://newsmast.socialpublic <br> <br>
+https://mastodon.socialpublic <br> <br>
+https://mastodon.onlinepublic <br> <br>
+https://mas.topublic <br> <br>
+https://universeodon.compublic <br> <br>
+https://mastodonapp.ukpublic <br> <br>
+https://social.vivaldi.netpublic <br> <br>
+https://mastodon.worldpublic <br> <br>
+https://mastodonapp.ukpublic <br> <br>
+https://det.socialpublic <br> <br>
+https://c.impublic <br> <br>
+https://mstdn.partypublic <br> <br>
+https://toot.communitypublic <br> <br>
+https://ohai.socialpublic <br> <br>
+https://nerdculture.depublic <br> <br>
+https://ieji.depublic <br> <br>
+https://toot.iopublic <br> <br>
+https://masto.nupublic <br> <br>
+https://mstdn.pluspublic <br> <br>
+https://stranger.socialpublic <br> <br>
+https://fairy.idpublic <br> <br>
+https://cupoftea.socialpublic <br> <br>
+https://mstdn.businesspublic <br> <br>
+https://convo.casapublic <br> <br>
+https://wehavecookies.socialpublic <br> <br>
+https://toot.funami.techpublic <br> <br>
+https://expressional.socialpublic <br> <br>
+https://mastodon-uk.netpublic <br> <br>
+https://cr8r.ggpublic <br> <br>
+https://sakurajima.moepublic <br> <br>
+https://mastodon.com.plpublic <br> <br>
+https://beekeeping.ninjapublic <br> <br>
+https://hear-me.socialpublic <br> <br>
+https://birdon.socialpublic <br> <br>
+https://squawk.mytransponder.compublic <br> <br>
+https://masto.yttrx.compublic <br> <br>
+https://planetearth.socialpublic <br> <br>
+https://fairmove.netpublic <br> <br>
+https://mstdn.socialpublic <br> <br>
+https://mastodon.worldpublic <br> <br>
+https://mastodon.sdf.orgpublic <br> <br>
+https://mindly.socialpublic <br> <br>
+https://geekdom.socialpublic <br> <br>
+https://theblower.aupublic <br> <br>
+https://lor.shpublic <br> <br>
+https://famichiki.jppublic <br> <br>
+https://opalstack.socialpublic <br> <br>
+https://blorbo.socialpublic <br> <br>
+https://fandom.inkpublic <br> <br>
+https://libretooth.grpublic <br> <br>
+https://toot.sitepublic <br> <br>
+https://persiansmastodon.compublic <br> <br>
+https://social.bau-ha.uspublic <br> <br>
+https://is.nota.livepublic <br> <br>
+https://mstdn.dkpublic <br> <br>
+https://norcal.socialpublic <br> <br>
+https://mountains.socialpublic <br> <br>
+https://esq.socialpublic <br> <br>
+https://friendsofdesoto.socialpublic <br> <br>
+https://opencoaster.netpublic <br> <br>
+https://maly.iopublic <br> <br>
+https://raphus.socialpublic <br> <br>
+https://mastodon.cipherbliss.compublic <br> <br>
+https://cultur.socialpublic <br> <br>
+https://x0r.bepublic <br> <br>
+https://lounge.townpublic <br> <br>
+https://toots.nupublic <br> <br>
+https://mastodon.africapublic <br> <br>
+https://cwb.socialpublic <br> <br>
+https://camp.smolnet.orgpublic <br> <br>
+https://paktodon.asiapublic <br> <br>
+https://growers.socialpublic <br> <br>
+https://mastodon.babb.nopublic <br> <br>
+https://learningdisability.socialpublic <br> <br>
+https://computerfairi.espublic <br> <br>
