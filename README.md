@@ -1,5 +1,8 @@
 # servers-list
-The current list of Mastodon Servers/Instances that Mastoget can connect to. Limited to 5 servers per page load.
+The current list of Mastodon Servers/Instances that Mastoget can connect to. Limited to 10 servers per page load.
+
+### Warning
+We know that this list is not in sync with current Mastodon instance list but we do our best to be in sync as possible (but it is time consuming).
 
 ## The List
 https://newsmast.social <br>
