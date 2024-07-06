@@ -11,7 +11,7 @@ The current list of Mastodon Servers/Instances that Mastoget can connect to. Lim
 [Bug/Issue Reporting](https://github.com/The-Mastoget-Organization/about/issues)<br><br>  
 
 ## Last Update
-The Mastoget Instance Selector Database has lastly been updated on July 6, 2024.
+The Mastoget Instances Selector Database has lastly been updated on July 6, 2024.
 
 ### The List
 https://mastodon.social<br>
