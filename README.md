@@ -1,3 +1,5 @@
+### Announcement: The shutdown process of the "The Mastodon Organization" and transfer of operations as "Mastofetch" has begun. It will be soon that alll endpoints of Mastoget will redirect to Mastofetch.
+
 # servers-list
 The current list of Mastodon Servers/Instances that Mastoget can connect to. 
 <br><br>
